@@ -1,4 +1,4 @@
-def multiply_list():
+def multiply():
 
 	"""
 
